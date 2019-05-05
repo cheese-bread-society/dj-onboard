@@ -1,0 +1,7 @@
+[package]
+name = "dj-onboard"
+version = "0.1.0"
+authors = ["caiovictormc <caiovictormc@gmail.com>"]
+edition = "2018"
+
+[dependencies]
